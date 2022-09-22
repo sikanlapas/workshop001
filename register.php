@@ -13,6 +13,16 @@
        include "navbar.php";
     ?>
     <h1> Register </h1>
+    <form action="register.php" method="post" enctype="multipart/form-data">
+        First Name <input type="text" name="firstname" /> <br/>
+        Last Name  <input type="text" name="lastname" /><br/>
+        E-mail <input type="email" name="email" /><br/>
+        Password <input type="" name="password" /> <br/>
+        Address <textarea rows="5" cols="50" name="address"></textarea><br/>
+        <input type="submit" value="register" />
+
+
+    </form>
     
 </body>
 </html>

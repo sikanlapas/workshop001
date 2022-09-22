@@ -9,13 +9,13 @@
     <link rel="stylesheet" href="./script/style.css" />
 </head>
 
-<body>
+<body class="bgimg">
     <?php
       include "navbar.php";
     ?>
     <h1> Login </h1>
 
-    <form>
+    <form action="login.php" method="post" enctype="multipart/form-data">
         Email :
         <input type="text" name="email" /> <br />
         Password :
