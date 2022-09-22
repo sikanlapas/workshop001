@@ -1,0 +1,61 @@
+.abc {
+    color: rgb(79, 78, 75);
+    font-size: 40px;
+    text-shadow: 2px 3px rgb(237, 228, 165);
+  }
+  
+  .blue {
+    color: rgb(129, 147, 236);
+  }
+  
+  .red {
+    color: rgb(3, 71, 45);
+  }
+  
+  .green {
+    color: rgb(78, 62, 226);
+  }
+  
+  .bgimg{
+    background-image: url("../images/mm22.jpg");
+    background-repeat: repeat-x;
+    opacity: 0.5;
+  }
+  
+  .bggreen{
+    background-color: rgb(243, 201, 161);
+  }
+  
+  a {
+    color: #FFFFFF;
+  }
+  
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgba(240, 192, 128, 0.3);
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: rgb(100, 107, 241);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #1674f786;
+    font-size: 18px;
+  }
+  
+  img {
+    height: 200;
+  
+  }
