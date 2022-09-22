@@ -5,21 +5,21 @@
   }
   
   .blue {
-    color: rgb(49, 28, 3);
+    color: rgb(228, 191, 147);
   }
   
   .red {
-    color: rgb(3, 71, 45);
+    color: rgb(140, 151, 147);
   }
   
   .green {
-    color: rgb(78, 62, 226);
+    color: rgb(164, 158, 218);
   }
   
   .bgimg{
-    background-image: url("../images/mm33.jpg");
+    background-image: url("../images/land01.jpg");
     background-repeat: repeat-x;
-    opacity: 0.5;
+    opacity: 1;
   }
   
   .bggreen{
